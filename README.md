@@ -6,3 +6,5 @@ Domain: Data Science and Business Analytics
 Task 1: Prediction using Supervised ML
 
 Task 2: Prediction usinh Unsupervised ML
+
+Task 3: Exploratory Data Analysis on Sample Superstore
