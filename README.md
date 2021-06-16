@@ -8,3 +8,5 @@ Task 1: Prediction using Supervised ML
 Task 2: Prediction usinh Unsupervised ML
 
 Task 3: Exploratory Data Analysis on Sample Superstore
+Tableau Dashboard: https://public.tableau.com/app/profile/akanksha.pandaw/viz/Grip_Task_3/Dashboard
+
